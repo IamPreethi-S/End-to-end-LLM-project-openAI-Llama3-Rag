@@ -37,3 +37,5 @@ To get started, clone the repository and install the required dependencies:
   
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
 
+## Future enhancements
+FAISS Product Quantization to compress embeddings reducing memory usage for vector DB
