@@ -2,6 +2,8 @@
 
 This project builds an end-to-end LLM solution for research analysis (domain/business specific), leveraging LangChain for text processing and OpenAI for vector conversion. The project enhances search relevance and precision, improving retrieval QA accuracy by 30%.
 
+### Scroll down for a quick demo!
+
 ## Overview
 
 This project uses LangChain for text processing and OpenAI for vector conversion to create a robust domain analysis tool. The system processes documents, converts them into vectors, and uses a retrieval-augmented generation (RAG) pipeline for precise and relevant answers to user queries.
