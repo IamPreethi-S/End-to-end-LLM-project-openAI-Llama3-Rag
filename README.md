@@ -1,6 +1,7 @@
 # End-to-end-LLM-project-openAI-Llama3-Ragpipeline
 
-This project builds an end-to-end LLM solution for research analysis (domain/business specific), leveraging LangChain for text processing and OpenAI for vector conversion. The project enhances search relevance and precision, improving retrieval QA accuracy by 30%.
+This project delivers an end-to-end LLM-based solution for domain-specific research and business understanding, built using LangChain for document processing and OpenAI embeddings for vectorization.
+By implementing a Retrieval-Augmented Generation (RAG) pipeline, the system improves QA precision by 30%, enabling more relevant, accurate answers from internal documentation.
 
 ### Scroll down for a quick demo! 
 
