@@ -29,6 +29,11 @@ To get started, clone the repository and install the required dependencies:
 
 - pip install -r requirements.txt
 
+
+## Future enhancements
+- FAISS Product Quantization to compress embeddings reducing memory usage for vector DB
+
+
 ## Images
 ![image](https://github.com/user-attachments/assets/a3472ba6-e8fd-4868-8501-72ac92b84b0b)
 
@@ -37,5 +42,4 @@ To get started, clone the repository and install the required dependencies:
   
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
 
-## Future enhancements
-FAISS Product Quantization to compress embeddings reducing memory usage for vector DB
+
