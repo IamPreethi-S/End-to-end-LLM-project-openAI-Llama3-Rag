@@ -2,7 +2,7 @@
 
 This project builds an end-to-end LLM solution for research analysis (domain/business specific), leveraging LangChain for text processing and OpenAI for vector conversion. The project enhances search relevance and precision, improving retrieval QA accuracy by 30%.
 
-### Scroll down for a quick demo!
+### Scroll down for a quick demo! 
 
 ## Overview
 
@@ -33,5 +33,7 @@ To get started, clone the repository and install the required dependencies:
 ![image](https://github.com/user-attachments/assets/a3472ba6-e8fd-4868-8501-72ac92b84b0b)
 
 ## Demo
+- Attached Sustainability Report for video purpose
+  
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
 
