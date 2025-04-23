@@ -5,7 +5,7 @@ By implementing a Retrieval-Augmented Generation (RAG) pipeline, the system impr
 
 
 ## Quick demo
-- Attached Sustainability Report for video purpose
+- Attached 2023 Sustainability Report available online for video purposes
   
 ![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
 
