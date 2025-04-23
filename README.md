@@ -44,5 +44,8 @@ To get started, clone the repository and install the required dependencies:
 ## Snapshots
 ![image](https://github.com/user-attachments/assets/a3472ba6-e8fd-4868-8501-72ac92b84b0b)
 
+![image](https://github.com/user-attachments/assets/e3766161-8f6e-4231-b7b8-88a7c15c7673)
+
+
 
 
