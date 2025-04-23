@@ -35,7 +35,7 @@ To get started, clone the repository and install the required dependencies:
 - FAISS Product Quantization to compress embeddings reducing memory usage for vector DB
 
 
-## Images
+## Image
 ![image](https://github.com/user-attachments/assets/a3472ba6-e8fd-4868-8501-72ac92b84b0b)
 
 ## Demo
