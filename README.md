@@ -3,6 +3,7 @@
 This project delivers an end-to-end LLM-based solution for domain-specific research and business understanding, built using LangChain for document processing and OpenAI embeddings for vectorization.
 By implementing a Retrieval-Augmented Generation (RAG) pipeline, the system improves QA precision by 30%, enabling more relevant, accurate answers from internal documentation.
 
+
 ## Quick demo
 - Attached Sustainability Report for video purpose
   
@@ -12,6 +13,7 @@ By implementing a Retrieval-Augmented Generation (RAG) pipeline, the system impr
 ## Overview
 
 This project uses LangChain for text processing and OpenAI for vector conversion to create a robust domain analysis tool. The system processes documents, converts them into vectors, and uses a retrieval-augmented generation (RAG) pipeline for precise and relevant answers to user queries.
+
 
 ## Features
 
