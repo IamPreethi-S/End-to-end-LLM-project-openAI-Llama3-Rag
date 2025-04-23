@@ -3,7 +3,11 @@
 This project delivers an end-to-end LLM-based solution for domain-specific research and business understanding, built using LangChain for document processing and OpenAI embeddings for vectorization.
 By implementing a Retrieval-Augmented Generation (RAG) pipeline, the system improves QA precision by 30%, enabling more relevant, accurate answers from internal documentation.
 
-### Scroll down for a quick demo! 
+## Quick demo
+- Attached Sustainability Report for video purpose
+  
+![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
+
 
 ## Overview
 
@@ -35,12 +39,8 @@ To get started, clone the repository and install the required dependencies:
 - FAISS Product Quantization to compress embeddings reducing memory usage for vector DB
 
 
-## Image
+## Snapshots
 ![image](https://github.com/user-attachments/assets/a3472ba6-e8fd-4868-8501-72ac92b84b0b)
 
-## Demo
-- Attached Sustainability Report for video purpose
-  
-![Untitled video - Made with Clipchamp (1)](https://github.com/user-attachments/assets/067a910d-e00f-4f97-8991-ea48ffceb0ea)
 
 
